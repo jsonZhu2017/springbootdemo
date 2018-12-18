@@ -1,4 +1,4 @@
-package com.bankcomm.entity;
+package com.bankcomm.springbootdemo.entity;
 
 public class Greeting {
     private final long id;

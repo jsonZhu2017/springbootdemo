@@ -1,4 +1,4 @@
-package com.bankcomm.utils;
+package com.bankcomm.springbootdemo.utils;
 
 public class StrUtil {
 
